@@ -1,0 +1,1 @@
+web: gunicorn credi_plus.wsgi --log-file -
