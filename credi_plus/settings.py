@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'credi_plus.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'credi_plus_db',
-        'USER': 'root',
-        'PASSWORD': 'rorro',
-        'HOST': '127.0.0.1',
+        'NAME': 'jx0rbsu42zuvnwoi',
+        'USER': 'd32eksronhoz2l7a',
+        'PASSWORD': 'cpnkcox787tu5o8c',
+        'HOST': 'cis9cbtgerlk68wl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         'PORT': '3306'
     }
 }
